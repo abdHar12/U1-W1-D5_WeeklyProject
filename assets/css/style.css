@@ -16,30 +16,33 @@ body {
 header {
   width: 100%;
 }
-
+header > .all-intr {
+  width: 20%;
+}
 .logo-epicode img {
   width: 100px;
 }
 .logo-epicode {
   background-color: black;
   width: 100%;
-  text-align: center;
-  padding: 3rem;
+  text-align: left;
+  padding: 1rem;
 }
 .introduction {
   background-image: url("/assets/images/banner.jpg");
   text-align: center;
   color: #393d41;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: "Montserrat", sans-serif;
   line-height: 1.65;
+  padding: 5rem;
 }
 .introduction h1 {
   font-family: "Montserrat", sans-serif;
   color: #25a2c3;
-  line-height: 1.5;
+  line-height: 2rem;
   text-transform: capitalize;
-  font-size: 3rem;
+  font-size: 1.5rem;
   padding-top: 30px;
   font-weight: bold;
 }
