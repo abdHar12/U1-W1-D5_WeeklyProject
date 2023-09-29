@@ -177,7 +177,7 @@ aside > div img {
   width: 100%;
   margin-bottom: 1rem;
   height: 250px;
-  overflow: hidden;
+  object-fit: cover;
 }
 aside > div {
   width: 30%;
