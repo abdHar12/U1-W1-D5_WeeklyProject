@@ -36,6 +36,7 @@ header > .all-intr {
   font-family: "Montserrat", sans-serif;
   line-height: 1.65;
   padding: 3rem;
+  background-size: cover;
 }
 .introduction h1 {
   font-family: "Montserrat", sans-serif;
